@@ -1,0 +1,3 @@
+HCI/Scripts/activate
+
+python main.py
